@@ -17,3 +17,6 @@ li .list-group-item list-group-item-success col-lg-12 col-md-12 col-sm-12 col-xs
 h4 .hi{
     font-size: 800px;
 }
+.img-responsive img_modal{
+    height: 500px;
+}
